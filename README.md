@@ -39,6 +39,9 @@
   <a href="https://www.linkedin.com/in/kamil-hebda-0466162a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/khebda/">
+    <img src="https://iconscout.com/contributors/icon-54" width="52" height="40" alt="leetcode logo"/>
+  </a>
 </div>
 
 ###
