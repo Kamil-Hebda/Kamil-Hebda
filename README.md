@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://leetcode.com/khebda/">
-    <img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000"  height="40" width ="200" alt="leetcode logo"/>
+    <img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000"  height="40" alt="leetcode logo"/>
   </a>
 </div>
 
