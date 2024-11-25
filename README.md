@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a second-year ICT student at AGH University of Krakow.</p>
+<p align="center">I'm a third-year ICT student at AGH University of Krakow.</p>
 
 ###
 
