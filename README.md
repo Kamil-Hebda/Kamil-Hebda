@@ -36,11 +36,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kamil-hebda-0466162a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kamil-hebda" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" height="25" width="55" />
   </a>
   <a href="https://leetcode.com/khebda/">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"  height="40" alt="leetcode logo"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" alt="leetcode logo" height="40" width="120" />
   </a>
 </div>
 
